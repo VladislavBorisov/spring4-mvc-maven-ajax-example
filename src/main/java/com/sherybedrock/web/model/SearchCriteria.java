@@ -1,4 +1,4 @@
-package com.mkyong.web.model;
+package com.sherybedrock.web.model;
 
 public class SearchCriteria {
 

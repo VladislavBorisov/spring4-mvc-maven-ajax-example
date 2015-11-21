@@ -37,13 +37,13 @@
 
 		<form class="form-horizontal" id="search-form">
 			<div class="form-group form-group-lg">
-				<label class="col-sm-2 control-label">Username</label>
+				<label class="col-sm-2 control-label">Username:</label>
 				<div class="col-sm-10">
 					<input type=text class="form-control" id="username">
 				</div>
 			</div>
 			<div class="form-group form-group-lg">
-				<label class="col-sm-2 control-label">Email</label>
+				<label class="col-sm-2 control-label">Email:</label>
 				<div class="col-sm-10">
 					<input type="text" class="form-control" id="email">
 				</div>
@@ -64,7 +64,7 @@
 <div class="container">
 	<footer>
 		<p>
-			&copy; <a href="http://www.mkyong.com">Mkyong.com</a> 2015
+			&copy; <a>sherybedrock.com</a> 2015
 		</p>
 	</footer>
 </div>

@@ -1,9 +1,9 @@
-package com.mkyong.web.model;
+package com.sherybedrock.web.model;
 
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import com.mkyong.web.jsonview.Views;
+import com.sherybedrock.web.jsonview.Views;
 
 public class AjaxResponseBody {
 
